@@ -1,3 +1,4 @@
+//Link del Video: https://www.youtube.com/watch?v=Y1uTF9fC7Pw
 let referencia;
 function preload(){
   referencia = loadImage("miImagen.jpg");
@@ -18,3 +19,4 @@ function draw() {
     figuraColor();
   }
 }
+
