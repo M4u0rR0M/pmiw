@@ -2,7 +2,7 @@
  Tema: MITOLOGIA - Medusa
  Alumnos: Diego Ezequiel Maidana y Mauro Romero
  Comision 3: Profesor David.B
- Link del Video: PEGARAQUI
+ Link del Video: https://youtu.be/fL27gTmAoj4?si=OmDRSlT48FhBMapV
  creditos: apretar "f"
 */
 
@@ -270,3 +270,4 @@ function keyPressed(){
     estado = 20;
   }
 }
+
