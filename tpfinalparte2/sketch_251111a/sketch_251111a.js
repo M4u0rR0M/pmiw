@@ -1,7 +1,7 @@
 /*
-Alumno: 
-Profesor: 
-Link del Video: 
+Alumno: Romero Mauro
+Profesor: David B.
+Link del Video: https://youtu.be/EPRkjKo4Ebg?si=8Vpco2mJz_Tuc7oh
 */
 
 /* ---------------- CLASES ---------------- */
